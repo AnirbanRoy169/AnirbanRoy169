@@ -15,7 +15,12 @@ NOTE: This README.md is intended to be viewed on any "desktop." Although this pa
 
 ## 🛠 Skills
 ### -Web Development-
-HTML, CSS, Javascript, NodeJS
+|        |       |             |
+| :----- | :---- | :---------  |
+| HTML   | CSS   | JAVASCRIPT  |
+| NodeJS | React | TailwindCSS |
 
 ### -Data Science-
-Python
+|        |
+| :----- |
+| Python |
