@@ -10,7 +10,7 @@ IIT Madras BS in Data Science student
 • In the September term of 2024, I passed my qualifying exam. My overall CGPA till now is 9.67.
 
 `
-NOTE: This README.md is designed to be viewed from any "desktop". However this page is mobile responsive too, but for the best experience, please use a desktop computer to view this page.
+NOTE: This README.md is intended to be viewed on any "desktop." Although this page is mobile friendly, for the best experience, please visit it on a desktop computer.
 `
 
 ## 🛠 Skills
