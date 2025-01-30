@@ -16,7 +16,7 @@ IIT Madras BS in Data Science student
 - This is my [College Profile](https://study.iitm.ac.in/ds/)
 - To view my Resume, [Click Here](https://youtube.com)
 - Feel free to reach out: anirban169.roy@gmail.com
-- You can also check [My other profiles](https://www.linktree.com)
+- You can also check [My other profiles](https://linktr.ee/ar.tech)
 
 ## 🛠 Skills
 ### -Web Development-
