@@ -37,9 +37,9 @@ IIT Madras BS in Data Science student
 | Communication |
 
 ## 🎓 Certifications
-- Communication Foundations, LinkedIn Learning [View Certificate](https://www.linkedin.com/learning/certificates/f03187463aa3c8933da27f9b0b20e4958f42f72fc0e5ae7b33aea63e6af9f292)
+- **Communication Foundations**, LinkedIn Learning [View Certificate](https://www.linkedin.com/learning/certificates/f03187463aa3c8933da27f9b0b20e4958f42f72fc0e5ae7b33aea63e6af9f292)
   > Skills: Communication
-- Intro to Python, IIT Madras [View Certificate](https://study.iitm.ac.in/ds/)
+- **Intro to Python**, IIT Madras [View Certificate](https://study.iitm.ac.in/ds/)
   > Skills: Python
 
 
