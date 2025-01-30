@@ -13,7 +13,10 @@ IIT Madras BS in Data Science student
 
 ## 🚀 Quick Links
 - Here is my [Personal Portfolio](https://www.github.com/AnirbanRoy169)
-- You can also click [Here](https://www.linktree.com) to check my other profiles
+- This is my [College Profile](https://study.iitm.ac.in/ds/)
+- To view my Resume, [Click Here](https://youtube.com)
+- Feel free to reach out: anirban169.roy@gmail.com
+- You can also check [My other profiles](https://www.linktree.com)
 
 ## 🛠 Skills
 ### -Web Development-
