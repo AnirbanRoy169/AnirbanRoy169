@@ -39,7 +39,7 @@ IIT Madras BS in Data Science student
 ## 🎓 Certifications
 - **Communication Foundations**, LinkedIn Learning [View Certificate](https://www.linkedin.com/learning/certificates/f03187463aa3c8933da27f9b0b20e4958f42f72fc0e5ae7b33aea63e6af9f292)
   > Skills: Communication
-- **Python for Beginners**, YouTube [View Badge](https://yotube.com)
+- **Python for Beginners**, YouTube [View Badge](https://www.youtube.com/)
   > Skills: Python
 
 
