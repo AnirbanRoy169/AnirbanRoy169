@@ -1,6 +1,7 @@
-
 # Hi, Myself Anirban Roy
 IIT Madras BS in Data Science student
+
+![GitHub watchers](https://img.shields.io/github/watchers/AnirbanRoy169/AnirbanRoy169?style=for-the-badge&label=Visitors)
 
 ## ✨ About Me
 - I have always been fascinated by various technologies since childhood and dreamed of being a part of this field. I enjoy trying out a variety of things, from web development to analyzing various datasets.
