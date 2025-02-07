@@ -1,8 +1,6 @@
 # Hi, Myself Anirban Roy
 IIT Madras BS in Data Science student
 
-![GitHub watchers](https://img.shields.io/github/watchers/AnirbanRoy169/AnirbanRoy169?style=for-the-badge&label=Visitors)
-
 ## ✨ About Me
 - I have always been fascinated by various technologies since childhood and dreamed of being a part of this field. I enjoy trying out a variety of things, from web development to analyzing various datasets.
 
@@ -43,4 +41,5 @@ IIT Madras BS in Data Science student
 - **Python for Beginners**, YouTube [View Badge](https://www.youtube.com/)
   > Skills: Python
 
-
+## 🍁 Footnote
+![GitHub watchers](https://img.shields.io/github/watchers/AnirbanRoy169/AnirbanRoy169?style=for-the-badge&label=Visitors)
