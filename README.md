@@ -11,7 +11,7 @@ IIT Madras BS in Data Science student
 > NOTE: This README.md is intended to be viewed on any "desktop." Although this page is mobile friendly, for the best experience, please visit it on a desktop computer.
 
 ## 🚀 Quick Links
-- Here is my [Personal Portfolio](https://www.github.com/AnirbanRoy169)
+- Here is my [Personal Portfolio](https://anirbanroy169.github.io/Portfolio/)
 - This is my [College Profile](https://study.iitm.ac.in/ds/)
 - To view my Resume, [Click Here](https://youtube.com)
 - Feel free to reach out: anirban169.roy@gmail.com
