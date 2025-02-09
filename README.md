@@ -19,10 +19,11 @@ IIT Madras BS in Data Science student
 
 ## 🛠 Skills
 ### -Web Development-
-|        |       |             |
-| :----- | :---- | :---------  |
-| HTML   | CSS   | JAVASCRIPT  |
-| NodeJS | React | TailwindCSS |
+|         |          |             |
+| :------ | :------- | :---------  |
+| HTML    | CSS      | JAVASCRIPT  |
+| NodeJS  | React    | TailwindCSS |
+| Next.js | Firebase |             |
 
 ### -Data Science-
 |         |     |            |
