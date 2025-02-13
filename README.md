@@ -44,7 +44,3 @@ IIT Madras BS in Data Science student
 
 ## 🍁 Footnote
 ![GitHub watchers](https://img.shields.io/github/watchers/AnirbanRoy169/AnirbanRoy169?style=for-the-badge&label=Visitors)
-
-
-
-![Static Badge](https://img.shields.io/badge/C%20Language-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/HTML-red?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/CSS-blue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/NodeJS-green?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/React-skyblue?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge) ![Static Badge](https://img.shields.io/badge/Tailwindcss-skyblue?style=for-the-badge) 
