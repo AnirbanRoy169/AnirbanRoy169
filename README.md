@@ -45,4 +45,4 @@ IIT Madras BS in Data Science student
 ## 🍁 Footnote
 ![GitHub watchers](https://img.shields.io/github/watchers/AnirbanRoy169/AnirbanRoy169?style=for-the-badge&label=Visitors)
 
-![](https://komarev.com/ghpvc/?username=AnirbanRoy169&style=for-the-badge&label=VISITORS)
+![](https://komarev.com/ghpvc/?username=AnirbanRoy169&style=for-the-badge)
