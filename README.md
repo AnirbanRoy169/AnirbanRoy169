@@ -34,10 +34,9 @@ IIT Madras BS in Data Science student
 </div>
 
 ### -Data Science-
-|         |     |            |
-| :------ | :-- | :--------- |
-| Python  | R   | Statistics |
-| PowerBI | AWS |            |
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
 ### -Soft Skills-
 |               |
