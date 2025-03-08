@@ -17,7 +17,7 @@ IIT Madras BS in Data Science student
 - Feel free to reach out: anirban169.roy@gmail.com
 - You can also check [My other profiles](https://linktr.ee/ar.tech)
 
-## 🛠 Skills
+## 🛠 Tech Stack
 ### -Web Development-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
