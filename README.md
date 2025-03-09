@@ -45,13 +45,9 @@ IIT Madras BS in Data Science student
 </div>
 
 ### -Extras-
-|               |             |            |
-| :------------ | :---------- | :--------- |
-| Communication | Mathematics | Statistics |
-
-![Static Badge](https://img.shields.io/badge/Communication-darkgreen?style=for-the-badge) 
 ![Static Badge](https://img.shields.io/badge/Mathematics-brown?style=for-the-badge) 
 ![Static Badge](https://img.shields.io/badge/Statistics-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Communication-darkgreen?style=for-the-badge) 
 
 
 ## 🎓 Certifications
