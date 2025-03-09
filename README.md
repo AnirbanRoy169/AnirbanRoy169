@@ -17,7 +17,7 @@ IIT Madras BS in Data Science student
 - Feel free to reach out: anirban169.roy@gmail.com
 - You can also check [My other profiles](https://linktr.ee/ar.tech)
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack & Skills
 ### -Web Development-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
@@ -38,10 +38,16 @@ IIT Madras BS in Data Science student
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
-### -Soft Skills-
-|               |
-| :------------ |
-| Communication |
+### -Designing-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
+
+### -Extras-
+|               |             |            |
+| :------------ | :---------- | :--------- |
+| Communication | Mathematics | Statistics |
 
 ## 🎓 Certifications
 - **Communication Foundations**, LinkedIn Learning [View Certificate](https://www.linkedin.com/learning/certificates/f03187463aa3c8933da27f9b0b20e4958f42f72fc0e5ae7b33aea63e6af9f292)
