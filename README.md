@@ -49,6 +49,11 @@ IIT Madras BS in Data Science student
 | :------------ | :---------- | :--------- |
 | Communication | Mathematics | Statistics |
 
+![Static Badge](https://img.shields.io/badge/Communication-darkgreen?style=for-the-badge) 
+![Static Badge](https://img.shields.io/badge/Mathematics-brown?style=for-the-badge) 
+![Static Badge](https://img.shields.io/badge/Statistics-purple?style=for-the-badge)
+
+
 ## 🎓 Certifications
 - **Communication Foundations**, LinkedIn Learning [View Certificate](https://www.linkedin.com/learning/certificates/f03187463aa3c8933da27f9b0b20e4958f42f72fc0e5ae7b33aea63e6af9f292)
   > Skills: Communication
