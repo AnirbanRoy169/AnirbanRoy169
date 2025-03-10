@@ -12,7 +12,7 @@ IIT Madras BS in Data Science student
 
 ## 🚀 Quick Links
 - Here is my [Personal Portfolio](https://anirbanroy169.github.io/Portfolio/)
-- My [LinkedIn](https://www.inkedin.com/in/anirbanroy016)
+- Let's connect on [LinkedIn](https://www.inkedin.com/in/anirbanroy016)
 - To view my Resume, [Click Here](https://youtube.com)
 - Feel free to reach out: anirban169.roy@gmail.com
 - You can also check [My other profiles](https://linktr.ee/ar.tech)
