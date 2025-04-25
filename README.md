@@ -6,7 +6,7 @@ IIT Madras BS in Data Science student
 
 - Currently I'm a foundation-level student at IIT Madras pursuing a BS degree in Data Science and Applications. 
 
-- In the September term of 2024, I passed my qualifying exam. My overall CGPA till now is 9.67.
+- In the September term of 2024, I passed my qualifying exam. My overall CGPA till now is 9.5.
 
 > NOTE: This README.md is intended to be viewed on any "desktop." Although this page is mobile friendly, for the best experience, please visit it on a desktop computer.
 
