@@ -26,6 +26,9 @@ IIT Madras BS in Data Science student
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo" />
 <!--   <img width="12" />
   <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -44,11 +47,28 @@ IIT Madras BS in Data Science student
   <img width="12" />
 </div>
 
+### -Languages-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+</div>
+
 ### -Designing-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /> -->
+</div>
+
+### -Product $ Services-
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo" />
 </div>
 
 ### -Extras-
@@ -62,6 +82,8 @@ IIT Madras BS in Data Science student
   > Skills: Communication
 - **Python for Beginners**, CWH YouTube [View Badge](https://www.youtube.com/)
   > Skills: Python
+- **Sigma Web Development Course**, CWH YouTube [View Badge](https://www.youtube.com/)
+  > Skills: HTML, CSS, JS, NodeJS, ExpressJS, EJS, MongoDB, Mongoose, TailwindCSS, React, NextJS, Hosting, Deployment 
 
 ## 🍁 Footnote
 ![GitHub watchers](https://img.shields.io/github/watchers/AnirbanRoy169/AnirbanRoy169?style=for-the-badge&label=Visitors)
