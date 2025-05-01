@@ -84,7 +84,7 @@ IIT Madras BS in Data Science student
 - **Python for Beginners**, CWH YouTube [View Badge](https://www.youtube.com/)
   > Skills: Python
 - **Sigma Web Development Course**, CWH YouTube [View Badge](https://www.youtube.com/)
-  > Skills: HTML, CSS, JS, NodeJS, ExpressJS, EJS, MongoDB, Mongoose, TailwindCSS, React, NextJS, Hosting, Deployment 
+  > Skills: HTML, CSS, JS, NodeJS, ExpressJS, MongoDB, TailwindCSS, React 
 
 ## 🍁 Footnote
 ![GitHub watchers](https://img.shields.io/github/watchers/AnirbanRoy169/AnirbanRoy169?style=for-the-badge&label=Visitors)
