@@ -36,6 +36,8 @@ IIT Madras BS in Data Science student
   <img width="12" /> -->
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/06B6D4" height="40" alt="react logo"  />
+  <img width="12" />
 </div>
 
 ### -Data Science-
