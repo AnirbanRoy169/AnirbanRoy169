@@ -61,7 +61,7 @@ IIT Madras BS in Data Science student
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /> -->
 </div>
 
-### -Product $ Services-
+### -Product & Services-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
   <img width="12" />
