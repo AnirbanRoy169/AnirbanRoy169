@@ -84,7 +84,9 @@ IIT Madras BS in Data Science student
 - **Python for Beginners**, CWH YouTube [View Badge](https://www.youtube.com/)
   > Skills: Python
 - **Sigma Web Development Course**, CWH YouTube [View Badge](https://www.youtube.com/)
-  > Skills: HTML, CSS, JS, NodeJS, ExpressJS, MongoDB, TailwindCSS, React 
+  > Skills: HTML, CSS, JS, NodeJS, ExpressJS, MongoDB, TailwindCSS, React
+- **GfG 160 - 160 Days of Problem Solving**, GeeksforGeeks [View Certificate](https://media.geeksforgeeks.org/courses/certificates/6c9f1c8e91b3fc821ad720c9e9903cc2.pdf)
+  > Skills: Data Structures and Algorithms
 
 ## 🍁 Footnote
 ![GitHub watchers](https://img.shields.io/github/watchers/AnirbanRoy169/AnirbanRoy169?style=for-the-badge&label=Visitors)
