@@ -88,6 +88,13 @@ IIT Madras BS in Data Science student
 - **GfG 160 - 160 Days of Problem Solving**, GeeksforGeeks [View Certificate](https://media.geeksforgeeks.org/courses/certificates/6c9f1c8e91b3fc821ad720c9e9903cc2.pdf)
   > Skills: Data Structures and Algorithms
 
+
+## ⚡ Stats 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AnirbanRoy169&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnirbanRoy169&radius=16&theme=react&area=true&order=5" height="150" alt="activity-graph graph" />
+</div>
+
 ## 🍁 Footnote
 ![GitHub watchers](https://img.shields.io/github/watchers/AnirbanRoy169/AnirbanRoy169?style=for-the-badge&label=Visitors)
 
