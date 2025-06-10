@@ -87,7 +87,7 @@ IIT Madras BS in Data Science student
   > Skills: HTML, CSS, JS, NodeJS, ExpressJS, MongoDB, TailwindCSS, React
 - **GfG 160 - 160 Days of Problem Solving**, GeeksforGeeks [View Certificate](https://media.geeksforgeeks.org/courses/certificates/6c9f1c8e91b3fc821ad720c9e9903cc2.pdf)
   > Skills: Data Structures and Algorithms
-
+- **Quantum Computing**, CDAC Hyderabad, IIT Roorkee [View Certificate](https://drive.google.com/file/d/1Hk6bS5b0GOiqOLrQDTf4PimmPvWN_Mji/view?usp=sharing)
 
 ## ⚡ Stats 
 <div align="left">
