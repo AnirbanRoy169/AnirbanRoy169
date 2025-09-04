@@ -89,6 +89,8 @@ IIT Madras BS in Data Science student
   > Skills: Data Structures and Algorithms
 - **Quantum Computing**, CDAC Hyderabad & IIT Roorkee [View Certificate](https://drive.google.com/file/d/1Hk6bS5b0GOiqOLrQDTf4PimmPvWN_Mji/view?usp=sharing)
   > Skills: Fundamentals of Quantum Computing
+- **Building LLM Applications With Prompt Engineering**, NVIDIA DLI [View Certificate](https://learn.nvidia.com/certificates?id=eYCP6EqdR0GQVBoYUOwfBQ)
+  > Skills: Fundamentals of Quantum Computing
 
 ## ⚡ Stats 
 <div align="left">
