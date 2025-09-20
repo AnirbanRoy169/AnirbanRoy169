@@ -91,6 +91,8 @@ IIT Madras BS in Data Science student
   > Skills: Fundamentals of Quantum Computing
 - **Building LLM Applications With Prompt Engineering**, NVIDIA DLI [View Certificate](https://learn.nvidia.com/certificates?id=eYCP6EqdR0GQVBoYUOwfBQ)
   > Skills: Prompt Engineering, LLMs, LangChain
+- **Programming and Data Science Foundation**, CODE IIT Madras [View Certificate](https://drive.google.com/file/d/1Fm-Gvr9xkafO5vbBxB18UOwuzZLNkWM_/view?usp=drive_link)
+  > Skills: English, Mathematics, Statistics, Computational Thinking, Python
 
 ## ⚡ Stats 
 <div align="left">
